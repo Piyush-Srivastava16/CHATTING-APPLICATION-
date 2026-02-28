@@ -266,7 +266,6 @@ Socket s = new Socket("192.168.1.5", 6001);
 * Event Handling (ActionListener, MouseAdapter)
 * File Handling in Java
 * Real-time Data Streaming
-
 ---
 
 ## 📝 Example Chat History File Output
