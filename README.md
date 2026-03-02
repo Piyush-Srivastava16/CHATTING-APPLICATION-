@@ -268,7 +268,6 @@ Socket s = new Socket("192.168.1.5", 6001);
 * Real-time Data Streaming
 ---
 
-
 ## 📝 Example Chat History File Output
 
 ```
