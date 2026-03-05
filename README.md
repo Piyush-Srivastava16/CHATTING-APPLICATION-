@@ -1,11 +1,5 @@
 # CHATTING-APPLICATION
 
-Here is a complete and professional **README.md** file for your Chatting Application project.
-
-You can copy this directly into a `README.md` file.
-
----
-
 # 💬 Java Chatting Application (Client–Server)
 
 A simple **GUI-based Chatting Application** built using **Java Swing** and **Socket Programming**.
